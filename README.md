@@ -44,7 +44,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<SAI TEJA,DA24B031.>**, IIT Madras (2025–26)
 
 
 ## Best Practices:
